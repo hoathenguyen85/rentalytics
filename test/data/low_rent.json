@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "first_seen": "2013-04-30",
+  "expected_move_in": "2013-05-03",
+  "shown_unit": "2013-05-07",
+  "agent_id": 1,
+  "marketing_source": "per_lease_or_percentage",
+  "application_submitted": "2013-05-03",
+  "application_approved": "2013-07-03",
+  "application_denied": null,
+  "application_canceled": null,
+  "lease_signed": null,
+  "resident_rent": 495,
+  "unit_name": "Unit 1"
+}

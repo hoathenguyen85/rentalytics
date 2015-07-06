@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Apartment Guide",
+    "monthly": true,
+    "price": 495
+  },
+  {
+    "id": 2,
+    "name": "Apartments.com",
+    "per_lease": true,
+    "price": 295
+  },
+  {
+    "id": 3,
+    "name": "Rent.com",
+    "per_lease": true,
+    "percentage": true,
+    "price": 595,
+    "price_percentage": 0.5
+  },
+  {
+    "id": 4,
+    "name": "For Rent",
+    "monthly": true,
+    "price": 195,
+    "lead_price": 25
+  },
+  {
+    "id": 5,
+    "name": "Craigslist",
+    "free": true
+  },
+  {
+    "id": 6,
+    "name": "Resident Referral",
+    "per_lease": true,
+    "price": 500
+  }
+]
